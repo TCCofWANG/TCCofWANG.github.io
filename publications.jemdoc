@@ -1,43 +1,44 @@
 # jemdoc: menu{MENU}{publications.html}, nofooter
 == Published papers
 
-- *H. Wang*, et al. \l0-norm based Short-term Sparse Portfolio Optimization Algorithm Based on Alternating Direction Method of Multipliers," \n
+- *H. Wang*, et al. "l0-norm based Short-term Sparse Portfolio Optimization Algorithm Based on Alternating Direction Method of Multipliers," \n
 Signal Processing (2023): 108957. accepted. 
-- *H. Wang*, et al. \A Lagrange Programming Neural Network Approach with an l0-Norm Sparsity Measurement for Sparse Recovery and Its Circuit Realization." \n
+- *H. Wang*, et al. "A Lagrange Programming Neural Network Approach with an l0-Norm Sparsity Measurement for Sparse Recovery and Its Circuit Realization." \n
 Mathematics (2022), accepted.
-- *H. Wang*, et al. \A Globally Stable LPNN Model for Sparse Approximation," \n
+- *H. Wang*, et al. "A Globally Stable LPNN Model for Sparse Approximation," \n
 IEEE Transactions on Neural Networks and Learning Systems, 2021.
-- Z.L. Shi, *H. Wang*, et al. \Constrained Center Loss for Convolutional Neural Networks," \n
+- Z.L. Shi, *H. Wang*, et al. "Constrained Center Loss for Convolutional Neural Networks," \n
 IEEE Transactions on Neural Networks and Learning Systems (2021), accepted. Indexed by SCI, JCR Ranking: Q1, IF: 11.683, DOI:
 10.1109/TNNLS.2021.3104392.
-- Z.L. Shi, *H. Wang*, et al. \Robust Ellipse Fitting based on Lagrange Programming Neural Network and
+- Z.L. Shi, *H. Wang*, et al. "Robust Ellipse Fitting based on Lagrange Programming Neural Network and
 Locally Competitive Algorithm," \n 
 Neurocomputing (2020): Volume 399, pp. 399-413. Indexed by SCI, JCR Ranking: Q1, IF: 4.072, DOI: 10.1016/j.neucom.2020.02.100. arXiv: https://arxiv.org/abs/1806.00004.
-- Z.L. Shi, *H. Wang*, et al. \Robust MIMO Radar Target Localization based on Lagrange Programming
+- Z.L. Shi, *H. Wang*, et al. "Robust MIMO Radar Target Localization based on Lagrange Programming
 Neural Network," \n 
 Signal Processing (2020):107574. Indexed by SCI, JCR Ranking: Q1, IF: 4.086, DOI: 10.1016/j.sigpro.2020.107574.arXiv: https://arxiv.org/abs/1805.12300.
-- *H. Wang*, et al. \An L0-Norm-Based Centers Selection for Failure Tolerant RBF Networks," \n 
+- *H. Wang*, et al. "An L0-Norm-Based Centers Selection for Failure Tolerant RBF Networks," \n 
 IEEE Access (2019):Volume 7, pp. 151902-151914. Indexed by SCI, JCR Ranking: Q1, IF: 4.098, DOI: 10.1109/ACCESS.2019.2945807.
-- *H. Wang*, et al. \ADMM-Based Algorithm for Training Fault Tolerant RBF Networks and Selecting Centers," \n 
+- *H. Wang*, et al. "ADMM-Based Algorithm for Training Fault Tolerant RBF Networks and Selecting Centers," \n 
 IEEE Transactions on Neural Networks and Learning Systems (2018): Volume 29, Issue 8, pp. 3870-3878. Indexed by SCI, JCR Ranking: Q1, IF: 11.683, DOI: 10.1109/TNNLS.2017.2731319.
-- *H. Wang*, et al. \Lagrange Programming Neural Network Approaches for Robust Time-of-Arrival Localization," \n 
+- *H. Wang*, et al. "Lagrange Programming Neural Network Approaches for Robust Time-of-Arrival Localization," \n 
 Cognitive Computation (2018): Volume 10, Issue 1, pp. 23-34. Indexed by SCI, JCR Ranking: Q1, IF: 3.479, DOI:
 10.1007/s12559-017-9495-z.
-- *H. Wang*, et al. \An Analog Neural Network Approach for the Least Absolute Shrinkage and Selection Operator
+- *H. Wang*, et al. "An Analog Neural Network Approach for the Least Absolute Shrinkage and Selection Operator
 Problem," \n 
 Neural Computing and Applications (2018): Volume 29, Issue 9, pp. 389-400. Indexed by SCI, JCR Ranking: Q1, IF: 4.213, DOI: 10.1007/s12559-017-9495-z.
-- *H. Wang*, et al. \32 Channels High-speed Data Acquisition System Based on Ethernet Transmission," \n 
+- *H. Wang*, et al. "32 Channels High-speed Data Acquisition System Based on Ethernet Transmission," \n 
 Nuclear Science and Engineering (2015): pp. 780-784.
 
 == Published Conference
-Neural Information Processing (ICONIP), 2016, pp. 367-375. Indexed by EI, DOI: 10.1007/978-3-319-46687-3 41.
-- *H. Wang*, et al. \A Lagrange Programming Neural Network Approach for Robust Ellipse Fitting," \n 
+- H. Wang, et al. "A Robust TOA Source Localization Algorithm Based on LPNN," \n 
+International Conference on Neural Information Processing (ICONIP), 2016, pp. 367-375. Indexed by EI, DOI: 10.1007/978-3-319-46687-3 41.
+- *H. Wang*, et al. "A Lagrange Programming Neural Network Approach for Robust Ellipse Fitting," \n 
 International Conference on Neural Information Processing (ICONIP), 2017, pp. 686-696. Indexed by EI, DOI:
 10.1007/978-3-319-70090-8 69.
-- *H. Wang*, et al. \MCP Based Noise Resistant Algorithm for Training RBF Networks and Selecting Centers," \n 
+- *H. Wang*, et al. "MCP Based Noise Resistant Algorithm for Training RBF Networks and Selecting Centers," \n 
 International Conference on Neural Information Processing (ICONIP), 2018, pp. 668-679. Indexed by EI, DOI:
 10.1007/978-3-030-04179-3 59.
-- Z.L. Shi, *H. Wang*, et al. \Constrained Center Loss for Image Classification," \n 
+- Z.L. Shi, *H. Wang*, et al. "Constrained Center Loss for Image Classification," \n 
 International Conference on Neural Information Processing (ICONIP), 2020, pp. 70-78. Indexed by EI, DOI: 10.1007/978-3-030-63823-8 9.
-- *H. Wang*, et al. \Lagrange Programming Neural Networks for Sparse Portfolio Design," \n 
+- *H. Wang*, et al. "Lagrange Programming Neural Networks for Sparse Portfolio Design," \n 
 International Conference on Neural Information Processing (ICONIP), 2022, accepted.
