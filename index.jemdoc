@@ -1,53 +1,44 @@
 # jemdoc: menu{MENU}{index.html}, nofooter
-== Wei Zhang
+== Hao WANG
 
 ~~~
-{}{img_left}{photos\ZW.jpg}{Zhang Wei}}{alt text}{326px}{245px}
+{}{img_left}{photos\WH.jpg}{Hao WANG}}{alt text}
 Assistant Professor \n
-[http://eie.hitsz.edu.cn/ School of Electronics and Information Engineering]\n
-[https://www.hitsz.edu.cn/index.html  Harbin Institute of Technology Shenzhen]\n\n
-Email: zhangwei.sz\[AT\]hit\[DOT\]edu\[DOT\]cn
+[https://ceie.szu.edu.cn/ College of Electronics and Information Engineering]\n
+[https://www.szu.edu.cn/  Shenzhen University]\n\n
+Email: haowang@szu.edu.cn
 ~~~
-
-
-
-
-
 
 == News
-- \[April 2023\] Our paper "Approximate Maximum-Likelihood RIS-Aided Positioning" is accepted by IEEE Transactions on Wireless Communications!
-- \[March 2023\] I have joined Harbin Institute of Technology Shenzhen as an Assistant Professor!
-
-#- \[05-04-2020\] Defended my Ph.D. dissertation titled "Predictive modeling of asynchronous event sequence data"!
-#- \[05-25-2019\] An extention of our ICDM'18 work "Local low-rank Hawkes processes for modeling temporal user-item interactions" is accepted by Knowledge and Information Systems(KAIS)!
-#- \[10-31-2018\] "Geometric Hawkes processes with graph convolutional recurrent neural networks" is accepted by AAAI'19! 
-#- \[08-18-2018\] "Local low-rank Hawkes processes for temporal user-item interactions" is accepted by ICDM'18!
-#- \[08-18-2018\] "Demographic inference via knowledge transfer in cross-domain recommender systems" is accepted by ICDM'18!
+- \[04 2021\] I have joined Shenzhen University as an Assistant Professor!
+- \[03 2021\] I left Tencent.
+- \[04 2019\] I joined Tencent as a senior researcher.
+- \[03 2019\] I left City University of Hong Kong.
+- \[10 2018\] I worked at City University of Hong Kong as a researcher assistant.
+- \[07 09 2018\] I completed my doctoral oral defense at City University of Hong Kong.
 
 == About me
-I am an assistant professor of Harbin Institute of Technology Shenzhen. Before that, I was a postdoctoral research fellow in School of Electrical and Electronic Engineering at Nanyang Technological University, working with [https://personal.ntu.edu.sg/wptay/ Prof. Tay Wee Peng]. Before this, I received my Ph.D. degree in the Department of Electrical Engineering at the City University of Hong Kong (CityU), supervised by with [https://www.ee.cityu.edu.hk/~shleung/ Prof. Shu-Hung Leung] and [http://ittc.ku.edu/~tjkim/ Prof. Taejoon Kim].
-I received the B.S. and M.S. degrees from the Harbin Institute of Technology, Harbin, China, in 2013 and 2015, respectively. 
+I am an assistant professor of Shenzhen University. Before that, I was a Senior Researcher in Corporate Development Group at Tencent Co. Ltd.
+I received the Ph.D. degree from City University of HongKong, HongKong, China, in 2019.
+I received the B.S. and M.S. degrees from Zhengzhou University, Henan, China, in 2012 and 2015, respectively. 
+
+== Research Interests 
+My researchs focus on Machine Learning, Deep learning, and Data Mining
 
 == Education 
 - Ph.D. in Electrical Engineering, City University of Hong Kong, Sep. 2015 - Oct. 2019
-- M.S. in Information and Comunication Engineering, Harbin Institute of Technology, Sep. 2013 - Jun. 2015
-- B.S. in Communication Enginnering, Harbin Institute of Technology (Hornor School), Sep. 2009 - Jun. 2013
+- M.S. in Physical Electronics, Zhengzhou University, Sep. 2012 - Jun. 2015
+- B.S. in Electronic Information Science and Technology, Zhengzhou University, Sep. 2008 - Jun. 2012
 
-== Research Interests 
-My researchs focus on low-rank matrix recovery and its application in millimeter wave channel estimation. The current research topics include:
-- Millimeter wave channel estimation: AoAs and AoDs estimation, hybrid precoding, and subspace estimation
-- Low-rank matrix recovery: restricted isolated property analysis and convex optimization
-- Statistical analysis: probability analysis and robust parameter estimation
-
-
-
-
-
-
+# == Projects
+#- Project supported by NSFC (Grant No. 62206178), 2023-2025
+#- Scientific Research Staring Foundation for talent in Shenzhen, 2021
 
 # == Awards
-#- Excellent Graduate Student Award, HIT, 2014
-#- National Motivational Scholarships, Ministry of Education of China, 2010,2011
-#- First class of scholarship of HIT, 2010,2011,2012
+#- Outstanding Young Teacher of Shenzhen University, Shenzhen University, 2022
+#- C-level Shenzhen high-level professional talents, Shenzhen University, 2019-2024
+#- Excellent staff of Tencent, Tencent, 2020
+#- UGC Scholarships from Hong Kong Government, City University of Hong Kong,2015-2018 
+#- Outstanding Thesis Award of Zhengzhou University, Zhengzhou University, 07/2015
 
 
