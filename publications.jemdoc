@@ -1,4 +1,5 @@
 # jemdoc: menu{MENU}{publications.html}, nofooter
+
 == Published papers
 
 - *H. Wang*, et al. " Image Classification on Hypersphere Loss." \n
@@ -34,6 +35,7 @@ Neural Computing and Applications (2018): Volume 29, Issue 9, pp. 389-400. Index
 Nuclear Science and Engineering (2015): pp. 780-784.
 
 == Published Conference
+
 - Linfang Yu, *Hao Wang*, et al. " Traffic Data Recovery and Outlier Detection based on Non-Negative Matrix Factorization and Truncated-Quadratic Loss Function," \n 
 International Conference on Neural Information Processing (ICONIP), 2023, accepted.
 - *H. Wang*, et al. "Lagrange Programming Neural Networks for Sparse Portfolio Design," \n 
