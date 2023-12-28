@@ -1,6 +1,9 @@
 # jemdoc: menu{MENU}{publications.html}, nofooter
 == Published papers
-
+- *H. Wang*, et al. " Image Classification on Hypersphere Loss." \n
+IEEE Transactions on Industrial Informatics (2024), accepted.
+- *H. Wang*, et al. "Two Analog Neural Models with the Controllability on Number of Assets for Sparse Portfolio Design." \n
+Neurocomputing (2023), accepted.
 - *H. Wang*, et al. "l0-norm based Short-term Sparse Portfolio Optimization Algorithm Based on Alternating Direction Method of Multipliers," \n
 Signal Processing (2023): 108957. accepted. 
 - *H. Wang*, et al. "A Lagrange Programming Neural Network Approach with an l0-Norm Sparsity Measurement for Sparse Recovery and Its Circuit Realization." \n
@@ -30,15 +33,17 @@ Neural Computing and Applications (2018): Volume 29, Issue 9, pp. 389-400. Index
 Nuclear Science and Engineering (2015): pp. 780-784.
 
 == Published Conference
-- *H. Wang*, et al. "A Robust TOA Source Localization Algorithm Based on LPNN," \n 
-International Conference on Neural Information Processing (ICONIP), 2016, pp. 367-375. Indexed by EI, DOI: 10.1007/978-3-319-46687-3 41.
-- *H. Wang*, et al. "A Lagrange Programming Neural Network Approach for Robust Ellipse Fitting," \n 
-International Conference on Neural Information Processing (ICONIP), 2017, pp. 686-696. Indexed by EI, DOI:
-10.1007/978-3-319-70090-8 69.
-- *H. Wang*, et al. "MCP Based Noise Resistant Algorithm for Training RBF Networks and Selecting Centers," \n 
-International Conference on Neural Information Processing (ICONIP), 2018, pp. 668-679. Indexed by EI, DOI:
-10.1007/978-3-030-04179-3 59.
-- Z.L. Shi, *H. Wang*, et al. "Constrained Center Loss for Image Classification," \n 
-International Conference on Neural Information Processing (ICONIP), 2020, pp. 70-78. Indexed by EI, DOI: 10.1007/978-3-030-63823-8 9.
+- Linfang Yu, *Hao Wang*, et al. " Traffic Data Recovery and Outlier Detection based on Non-Negative Matrix Factorization and Truncated-Quadratic Loss Function," \n 
+International Conference on Neural Information Processing (ICONIP), 2023, accepted.
 - *H. Wang*, et al. "Lagrange Programming Neural Networks for Sparse Portfolio Design," \n 
 International Conference on Neural Information Processing (ICONIP), 2022, accepted.
+- *H. Wang*, et al. "Lagrange Programming Neural Networks for Sparse Portfolio Design," \n 
+International Conference on Neural Information Processing (ICONIP), 2022, accepted.
+- Z.L. Shi, *H. Wang*, et al. "Constrained Center Loss for Image Classification," \n 
+International Conference on Neural Information Processing (ICONIP), 2020, pp. 70-78. Indexed by 
+- *H. Wang*, et al. "MCP Based Noise Resistant Algorithm for Training RBF Networks and Selecting Centers," \n 
+International Conference on Neural Information Processing (ICONIP), 2018, pp. 668-679. Indexed by EI, DOI: 10.1007/978-3-030-04179-3 59. EI, DOI: 10.1007/978-3-030-63823-8 9.
+- *H. Wang*, et al. "A Lagrange Programming Neural Network Approach for Robust Ellipse Fitting," \n 
+International Conference on Neural Information Processing (ICONIP), 2017, pp. 686-696. Indexed by EI, DOI: 10.1007/978-3-319-70090-8 69.
+- *H. Wang*, et al. "A Robust TOA Source Localization Algorithm Based on LPNN," \n 
+International Conference on Neural Information Processing (ICONIP), 2016, pp. 367-375. Indexed by EI, DOI: 10.1007/978-3-319-46687-3 41.
