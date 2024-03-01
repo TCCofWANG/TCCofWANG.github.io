@@ -2,16 +2,17 @@
 
 == Published papers
 
-- *H. Wang*, et al. " Image Classification on Hypersphere Loss." \n
-IEEE Transactions on Industrial Informatics (2024), accepted.
+- *H. Wang*, et al. " Image Classification on Hypersphere Loss." IEEE Transactions on Industrial Informatics (2024), accepted.
+- Z.H. He,*H. Wang*, et al. " Face Recognition Based on Center Bias Estimation and Adaptive Margin." \n
+ACTA ELECTRONICA SINICA (2024), accepted.
 - *H. Wang*, et al. "Two Analog Neural Models with the Controllability on Number of Assets for Sparse Portfolio Design." \n
 Neurocomputing (2023), accepted.
 - *H. Wang*, et al. "l0-norm based Short-term Sparse Portfolio Optimization Algorithm Based on Alternating Direction Method of Multipliers," \n
 Signal Processing (2023): 108957. accepted. 
-- *H. Wang*, et al. "A Lagrange Programming Neural Network Approach with an l0-Norm Sparsity Measurement for Sparse Recovery and Its Circuit Realization." \n
-Mathematics (2022), accepted.
 - *H. Wang*, et al. "A Globally Stable LPNN Model for Sparse Approximation," \n
-IEEE Transactions on Neural Networks and Learning Systems, 2021.
+IEEE Transactions on Neural Networks and Learning Systems, (2023): vol. 34, no. 8, pp. 5218-5226, Indexed by SCI, JCR Ranking: Q1, IF: 10.451, DOI:10.1109/TNNLS.2021.3126730.
+- *H. Wang*, et al. "A Lagrange Programming Neural Network Approach with an l0-Norm Sparsity Measurement for Sparse Recovery and Its Circuit Realization." \n
+Mathematics (2022), 10(24): 4801. Indexed by SCI, JCR Ranking: Q1, IF: 2.4, DOI:https://doi.org/10.3390/math10244801.
 - Z.L. Shi, *H. Wang*, et al. "Constrained Center Loss for Convolutional Neural Networks," \n
 IEEE Transactions on Neural Networks and Learning Systems (2021), accepted. Indexed by SCI, JCR Ranking: Q1, IF: 11.683, DOI:
 10.1109/TNNLS.2021.3104392.
@@ -36,10 +37,8 @@ Nuclear Science and Engineering (2015): pp. 780-784.
 
 == Published Conference
 
-- Linfang Yu, *Hao Wang*, et al. " Traffic Data Recovery and Outlier Detection based on Non-Negative Matrix Factorization and Truncated-Quadratic Loss Function," \n 
+- L.F. Yu, *H. Wang*, et al. " Traffic Data Recovery and Outlier Detection based on Non-Negative Matrix Factorization and Truncated-Quadratic Loss Function," \n 
 International Conference on Neural Information Processing (ICONIP), 2023, accepted.
-- *H. Wang*, et al. "Lagrange Programming Neural Networks for Sparse Portfolio Design," \n 
-International Conference on Neural Information Processing (ICONIP), 2022, accepted.
 - *H. Wang*, et al. "Lagrange Programming Neural Networks for Sparse Portfolio Design," \n 
 International Conference on Neural Information Processing (ICONIP), 2022, accepted.
 - Z.L. Shi, *H. Wang*, et al. "Constrained Center Loss for Image Classification," \n 
