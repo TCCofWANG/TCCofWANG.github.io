@@ -2,8 +2,17 @@
 
 == Published papers
 
-- *H. Wang*, et al. " Image Classification on Hypersphere Loss." IEEE Transactions on Industrial Informatics (2024), accepted.
-- Z.H. He,*H. Wang*, et al. " Face Recognition Based on Center Bias Estimation and Adaptive Margin." \n
+- Linfang Yu, Chenyu Guan, *Hao Wang*, Yuxin He, Wenming Cao, and Chi-Sing Leung. "Robust Tensor Ring Decomposition for Urban Traffic Data Imputation." \n
+IEEE Transactions on Intelligent Transportation Systems. Vol. 26, no. 6, pp. 8707-8719, June 2025, Indexed by SCI, JCR Ranking: Q1, IF: 7.9;
+- Enhao Chen, *Hao Wang*, Zhanglei Shi, Wei Zhang. "Channel pruning for convolutional neural networks using l0-norm constraints." \n 
+Neurocomputing, 2025: 129925. Indexed by SCI, JCR Ranking: Q1, IF: 5.5;
+- Xiaobao Song, Liwei Deng, *Hao Wang*, Yaoan Zhang, Yuxin He, Wenming Cao. "Deep learning-based time series forecasting." \n  
+Artificial Intelligence Review, 2024, 58 (1): 23. Indexed by SCI, JCR Ranking: Q1, IF: 11.7;
+- *H. Wang*, et al. " Image Classification on Hypersphere Loss." \n
+IEEE Transactions on Industrial Informatics (2024). Vol. 20, no. 4, pp. 6531-6541, Indexed by SCI, JCR Ranking: Q1, IF:12.3;
+- Jianqi Zhong, Conghui Ye, Wenming Cao, *Hao Wang*, "Parallel multi-stage rectification networks for 3D skeleton-based motion prediction." \n 
+Scientific Reports, 2024, 14(1): 26058. Indexed by SCI, JCR Ranking: Q1, IF:4.3;
+- Z.H. He, *H. Wang*, et al. " Face Recognition Based on Center Bias Estimation and Adaptive Margin." \n
 ACTA ELECTRONICA SINICA (2024), accepted.
 - *H. Wang*, et al. "Two Analog Neural Models with the Controllability on Number of Assets for Sparse Portfolio Design." \n
 Neurocomputing (2023), accepted.
@@ -37,15 +46,19 @@ Nuclear Science and Engineering (2015): pp. 780-784.
 
 == Published Conference
 
+- L.F. Yu, *H. Wang*, et al. "A Robust Tensor Decomposition Model for Traffic Data Imputation with Capped Frobenius Norm in Smart City," \n 
+International Conference on Neural Information Processing (ICONIP), 2024, accepted.
+- E.H. Chen, *H. Wang*, et al. "Explore Channel Pruning Based on l0-norm Sparse Optimization," \n 
+International Conference on Neural Information Processing (ICONIP), 2024, accepted.
 - L.F. Yu, *H. Wang*, et al. " Traffic Data Recovery and Outlier Detection based on Non-Negative Matrix Factorization and Truncated-Quadratic Loss Function," \n 
 International Conference on Neural Information Processing (ICONIP), 2023, accepted.
 - *H. Wang*, et al. "Lagrange Programming Neural Networks for Sparse Portfolio Design," \n 
 International Conference on Neural Information Processing (ICONIP), 2022, accepted.
 - Z.L. Shi, *H. Wang*, et al. "Constrained Center Loss for Image Classification," \n 
-International Conference on Neural Information Processing (ICONIP), 2020, pp. 70-78. Indexed by 
+International Conference on Neural Information Processing (ICONIP), 2020, pp. 70-78. Indexed by EI, DOI: 10.1007/978-3-030-63823-8_9.
 - *H. Wang*, et al. "MCP Based Noise Resistant Algorithm for Training RBF Networks and Selecting Centers," \n 
-International Conference on Neural Information Processing (ICONIP), 2018, pp. 668-679. Indexed by EI, DOI: 10.1007/978-3-030-04179-3 59. EI, DOI: 10.1007/978-3-030-63823-8 9.
+International Conference on Neural Information Processing (ICONIP), 2018, pp. 668-679. Indexed by EI, DOI: 10.1007/978-3-030-04179-3_59. 
 - *H. Wang*, et al. "A Lagrange Programming Neural Network Approach for Robust Ellipse Fitting," \n 
-International Conference on Neural Information Processing (ICONIP), 2017, pp. 686-696. Indexed by EI, DOI: 10.1007/978-3-319-70090-8 69.
+International Conference on Neural Information Processing (ICONIP), 2017, pp. 686-696. Indexed by EI, DOI: 10.1007/978-3-319-70090-8_69.
 - *H. Wang*, et al. "A Robust TOA Source Localization Algorithm Based on LPNN," \n 
-International Conference on Neural Information Processing (ICONIP), 2016, pp. 367-375. Indexed by EI, DOI: 10.1007/978-3-319-46687-3 41.
+International Conference on Neural Information Processing (ICONIP), 2016, pp. 367-375. Indexed by EI, DOI: 10.1007/978-3-319-46687-3_41.
