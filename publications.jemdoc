@@ -1,7 +1,18 @@
 # jemdoc: menu{MENU}{publications.html}, nofooter
 
 == Published papers
-
+- Liwei Deng, Hao Wang*, Junhao Tan, Xinhe Niu, Yuxin He, Shiyao Zhang, and Zhihai He. "STD2Vformer: A Free-form Spatiotemporal Forecasting Model" \n
+IEEE Transactions on Industrial Informatics, 2026, 10.1109/TII.2026.3655106. Indexed by SCI, JCR Ranking: Q1, IF:9.9;
+- Hao Wang, Chenyu Guan, Linfang Yu, Lishuai Li, Yanshan Li, Lei Gong, and Yuxin He. "l0-RASC-NN: An Efficient Spatiotemporal Data Completion Method for Edge Devices." \n
+IEEE Transactions on Mobile Computing, 2026, 10.1109/TMC.2025.3649775. Indexed by SCI, JCR Ranking: Q1, IF:9.2;
+- Zeeshan abbas, Hao Wang*, Mehboob hussain, Xiaobao song, Zafar ali, Wenming cao. "Remaining Useful Life Estimation Based on Improved Attention Mechanism." \n
+Results in Engineering (2026), vol. 29, no. 108813, https://doi.org/10.1016/j.rineng.2025.108813. Indexed by SCI, JCR Ranking: Q1, IF:7.9;
+- Xiaobao Song, Hao Wang*, Liwei Deng, Dong Wang, Hongbo Qiu, Yuxin He, Wenming Cao, Chi-Sing Leung. "D2Vformer: A Flexible Time Series Prediction Model Based on Time Position Embedding." \n
+in IEEE Transactions on Neural Networks and Learning Systems, 2026, 10.1109/TNNLS.2025.3630792. Indexed by SCI, JCR Ranking: Q1, IF:8.9;
+- Xiaobao Song, Liwei Deng, Hao Wang*, Yaoan Zhang, Zuosheng Chen, Yuxin He, Wenming Cao. "Long-Term Time Series Forecasting Model Based on Deep Learning and Temporal Decomposition", \n
+Computer Engineering and Applications (2025), 61(22),170-182. Indexed by EI.
+- Jinpeng Cao，Hao Wang*, Wei Zhang，Shichao Ren，and Chi-Sing Leung. “An Open-Set Image Classification Algorithm Based on Hardness-Aware Angular Margin Loss and Label Noise Filtering.”, \n
+Applied Intelligence, 55, 857, July 2025, https://doi.org/10.1007/s10489-025-06718-5. Indexed by SCI, JCR Ranking: Q1, IF:3.5;
 - Linfang Yu, Chenyu Guan, *Hao Wang*, Yuxin He, Wenming Cao, and Chi-Sing Leung. "Robust Tensor Ring Decomposition for Urban Traffic Data Imputation." \n
 IEEE Transactions on Intelligent Transportation Systems. Vol. 26, no. 6, pp. 8707-8719, June 2025, Indexed by SCI, JCR Ranking: Q1, IF: 7.9;
 - Enhao Chen, *Hao Wang*, Zhanglei Shi, Wei Zhang. "Channel pruning for convolutional neural networks using l0-norm constraints." \n 
@@ -25,12 +36,14 @@ Mathematics (2022), 10(24): 4801. Indexed by SCI, JCR Ranking: Q1, IF: 2.4, DOI:
 - Z.L. Shi, *H. Wang*, et al. "Constrained Center Loss for Convolutional Neural Networks," \n
 IEEE Transactions on Neural Networks and Learning Systems (2021), accepted. Indexed by SCI, JCR Ranking: Q1, IF: 11.683, DOI:
 10.1109/TNNLS.2021.3104392.
-- Z.L. Shi, *H. Wang*, et al. "Robust Ellipse Fitting based on Lagrange Programming Neural Network and Locally Competitive Algorithm," \n 
+- Z.L. Shi, *H. Wang*, et al. "Robust Ellipse Fitting based on Lagrange Programming Neural Network and
+Locally Competitive Algorithm," \n 
 Neurocomputing (2020): Volume 399, pp. 399-413. Indexed by SCI, JCR Ranking: Q1, IF: 4.072, DOI: 10.1016/j.neucom.2020.02.100. arXiv: https://arxiv.org/abs/1806.00004.
-- Z.L. Shi, *H. Wang*, et al. "Robust MIMO Radar Target Localization based on Lagrange Programming Neural Network," \n 
+- Z.L. Shi, *H. Wang*, et al. "Robust MIMO Radar Target Localization based on Lagrange Programming
+Neural Network," \n 
 Signal Processing (2020):107574. Indexed by SCI, JCR Ranking: Q1, IF: 4.086, DOI: 10.1016/j.sigpro.2020.107574.arXiv: https://arxiv.org/abs/1805.12300.
 - *H. Wang*, et al. "An L0-Norm-Based Centers Selection for Failure Tolerant RBF Networks," \n 
-IEEE Access (2019): Volume 7, pp. 151902-151914. Indexed by SCI, JCR Ranking: Q1, IF: 4.098, DOI: 10.1109/ACCESS.2019.2945807.
+IEEE Access (2019):Volume 7, pp. 151902-151914. Indexed by SCI, JCR Ranking: Q1, IF: 4.098, DOI: 10.1109/ACCESS.2019.2945807.
 - *H. Wang*, et al. "ADMM-Based Algorithm for Training Fault Tolerant RBF Networks and Selecting Centers," \n 
 IEEE Transactions on Neural Networks and Learning Systems (2018): Volume 29, Issue 8, pp. 3870-3878. Indexed by SCI, JCR Ranking: Q1, IF: 11.683, DOI: 10.1109/TNNLS.2017.2731319.
 - *H. Wang*, et al. "Lagrange Programming Neural Network Approaches for Robust Time-of-Arrival Localization," \n 
