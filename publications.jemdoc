@@ -1,29 +1,29 @@
 # jemdoc: menu{MENU}{publications.html}, nofooter
 
 == Published papers
-- Zeeshan Abbas, *Hao Wang*, Nasir Ali, Xiaobao Song, and Wenming Cao. "Aging-Informed Dynamic Graph Network for Aero-Engine RUL Prediction" \n
+- Zeeshan Abbas, *Hao Wang(Corr. author)*, Nasir Ali, Xiaobao Song, and Wenming Cao. "Aging-Informed Dynamic Graph Network for Aero-Engine RUL Prediction" \n
 IEEE Transactions on Industrial Informatics, 2026, 10.1109/TII.2026.3694202. Indexed by SCI, JCR Ranking: Q1, IF:11.7;
-- Liwei Deng, *Hao Wang*, Junhao Tan, Xinhe Niu, Yuxin He, Shiyao Zhang, and Zhihai He. "STD2Vformer: A Free-form Spatiotemporal Forecasting Model" \n
+- Liwei Deng, *Hao Wang(Corr. author)*, Junhao Tan, Xinhe Niu, Yuxin He, Shiyao Zhang, and Zhihai He. "STD2Vformer: A Free-form Spatiotemporal Forecasting Model" \n
 IEEE Transactions on Industrial Informatics, 2026, 10.1109/TII.2026.3655106. Indexed by SCI, JCR Ranking: Q1, IF:11.7;
 - *Hao Wang*, Chenyu Guan, Linfang Yu, Lishuai Li, Yanshan Li, Lei Gong, and Yuxin He. "l0-RASC-NN: An Efficient Spatiotemporal Data Completion Method for Edge Devices." \n
 IEEE Transactions on Mobile Computing, 2026, 10.1109/TMC.2025.3649775. Indexed by SCI, JCR Ranking: Q1, IF:9.2;
-- Zeeshan abbas, *Hao Wang*, Mehboob hussain, Xiaobao song, Zafar ali, Wenming cao. "Remaining Useful Life Estimation Based on Improved Attention Mechanism." \n
+- Zeeshan abbas, *Hao Wang(Corr. author)*, Mehboob hussain, Xiaobao song, Zafar ali, Wenming cao. "Remaining Useful Life Estimation Based on Improved Attention Mechanism." \n
 Results in Engineering (2026), vol. 29, no. 108813, https://doi.org/10.1016/j.rineng.2025.108813. Indexed by SCI, JCR Ranking: Q1, IF:7.9;
-- Xiaobao Song, *Hao Wang*, Liwei Deng, Dong Wang, Hongbo Qiu, Yuxin He, Wenming Cao, Chi-Sing Leung. "D2Vformer: A Flexible Time Series Prediction Model Based on Time Position Embedding." \n
+- Xiaobao Song, *Hao Wang(Corr. author)*, Liwei Deng, Dong Wang, Hongbo Qiu, Yuxin He, Wenming Cao, Chi-Sing Leung. "D2Vformer: A Flexible Time Series Prediction Model Based on Time Position Embedding." \n
 in IEEE Transactions on Neural Networks and Learning Systems, 2026, 10.1109/TNNLS.2025.3630792. Indexed by SCI, JCR Ranking: Q1, IF:8.9;
-- Xiaobao Song, Liwei Deng, *Hao Wang*, Yaoan Zhang, Zuosheng Chen, Yuxin He, Wenming Cao. "Long-Term Time Series Forecasting Model Based on Deep Learning and Temporal Decomposition", \n
+- Xiaobao Song, Liwei Deng, *Hao Wang(Corr. author)*, Yaoan Zhang, Zuosheng Chen, Yuxin He, Wenming Cao. "Long-Term Time Series Forecasting Model Based on Deep Learning and Temporal Decomposition", \n
 Computer Engineering and Applications (2025), 61(22),170-182. Indexed by EI.
-- Jinpeng Cao，*Hao Wang*, Wei Zhang，Shichao Ren，and Chi-Sing Leung. “An Open-Set Image Classification Algorithm Based on Hardness-Aware Angular Margin Loss and Label Noise Filtering.”, \n
+- Jinpeng Cao，*Hao Wang(Corr. author)*, Wei Zhang，Shichao Ren，and Chi-Sing Leung. “An Open-Set Image Classification Algorithm Based on Hardness-Aware Angular Margin Loss and Label Noise Filtering.”, \n
 Applied Intelligence, 55, 857, July 2025, https://doi.org/10.1007/s10489-025-06718-5. Indexed by SCI, JCR Ranking: Q1, IF:3.5;
-- Linfang Yu, Chenyu Guan, *Hao Wang*, Yuxin He, Wenming Cao, and Chi-Sing Leung. "Robust Tensor Ring Decomposition for Urban Traffic Data Imputation." \n
+- Linfang Yu, Chenyu Guan, *Hao Wang(Corr. author)*, Yuxin He, Wenming Cao, and Chi-Sing Leung. "Robust Tensor Ring Decomposition for Urban Traffic Data Imputation." \n
 IEEE Transactions on Intelligent Transportation Systems. Vol. 26, no. 6, pp. 8707-8719, June 2025, Indexed by SCI, JCR Ranking: Q1, IF: 7.9;
-- Enhao Chen, *Hao Wang*, Zhanglei Shi, Wei Zhang. "Channel pruning for convolutional neural networks using l0-norm constraints." \n 
+- Enhao Chen, *Hao Wang(Corr. author)*, Zhanglei Shi, Wei Zhang. "Channel pruning for convolutional neural networks using l0-norm constraints." \n 
 Neurocomputing, 2025: 129925. Indexed by SCI, JCR Ranking: Q1, IF: 5.5;
-- Xiaobao Song, Liwei Deng, *Hao Wang*, Yaoan Zhang, Yuxin He, Wenming Cao. "Deep learning-based time series forecasting." \n  
+- Xiaobao Song, Liwei Deng, *Hao Wang(Corr. author)*, Yaoan Zhang, Yuxin He, Wenming Cao. "Deep learning-based time series forecasting." \n  
 Artificial Intelligence Review, 2024, 58 (1): 23. Indexed by SCI, JCR Ranking: Q1, IF: 11.7;
 - *H. Wang*, et al. " Image Classification on Hypersphere Loss." \n
 IEEE Transactions on Industrial Informatics (2024). Vol. 20, no. 4, pp. 6531-6541, Indexed by SCI, JCR Ranking: Q1, IF:12.3;
-- Jianqi Zhong, Conghui Ye, Wenming Cao, *Hao Wang*, "Parallel multi-stage rectification networks for 3D skeleton-based motion prediction." \n 
+- Jianqi Zhong, Conghui Ye, Wenming Cao, *Hao Wang(Corr. author)*, "Parallel multi-stage rectification networks for 3D skeleton-based motion prediction." \n 
 Scientific Reports, 2024, 14(1): 26058. Indexed by SCI, JCR Ranking: Q1, IF:4.3;
 - Z.H. He, *H. Wang*, et al. " Face Recognition Based on Center Bias Estimation and Adaptive Margin." \n
 ACTA ELECTRONICA SINICA (2024), accepted.
@@ -58,17 +58,17 @@ Neural Computing and Applications (2018): Volume 29, Issue 9, pp. 389-400. Index
 Nuclear Science and Engineering (2015): pp. 780-784.
 
 == Published Conference
-- P. Zhou, *H. Wang*, et al. "Multi-information Fusion Unsupervised Feature Selection," \n 
+- P. Zhou, *H. Wang(Corr. author)*, et al. "Multi-information Fusion Unsupervised Feature Selection," \n 
 International Conference on Neural Information Processing (ICONIP), 2025, pp. 281-294. Singapore: Springer Nature Singapore. 
-- L.F. Yu, *H. Wang*, et al. "A Robust Tensor Decomposition Model for Traffic Data Imputation with Capped Frobenius Norm in Smart City," \n 
+- L.F. Yu, *H. Wang(Corr. author)*, et al. "A Robust Tensor Decomposition Model for Traffic Data Imputation with Capped Frobenius Norm in Smart City," \n 
 International Conference on Neural Information Processing (ICONIP), 2024, Singapore: Springer Nature Singapore. 
-- E.H. Chen, *H. Wang*, et al. "Explore Channel Pruning Based on l0-norm Sparse Optimization," \n 
+- E.H. Chen, *H. Wang(Corr. author)*, et al. "Explore Channel Pruning Based on l0-norm Sparse Optimization," \n 
 International Conference on Neural Information Processing (ICONIP), 2024, Singapore: Springer Nature Singapore. 
-- L.F. Yu, *H. Wang*, et al. " Traffic Data Recovery and Outlier Detection based on Non-Negative Matrix Factorization and Truncated-Quadratic Loss Function," \n 
+- L.F. Yu, *H. Wang(Corr. author)*, et al. " Traffic Data Recovery and Outlier Detection based on Non-Negative Matrix Factorization and Truncated-Quadratic Loss Function," \n 
 International Conference on Neural Information Processing (ICONIP), 2023, Singapore: Springer Nature Singapore. 
 - *H. Wang*, et al. "Lagrange Programming Neural Networks for Sparse Portfolio Design," \n 
 International Conference on Neural Information Processing (ICONIP), 2022, Singapore: Springer Nature Singapore. 
-- Z.L. Shi, *H. Wang*, et al. "Constrained Center Loss for Image Classification," \n 
+- Z.L. Shi, *H. Wang(Corr. author)*, et al. "Constrained Center Loss for Image Classification," \n 
 International Conference on Neural Information Processing (ICONIP), 2020, pp. 70-78. Indexed by EI, DOI: 10.1007/978-3-030-63823-8_9.
 - *H. Wang*, et al. "MCP Based Noise Resistant Algorithm for Training RBF Networks and Selecting Centers," \n 
 International Conference on Neural Information Processing (ICONIP), 2018, pp. 668-679. Indexed by EI, DOI: 10.1007/978-3-030-04179-3_59. 
